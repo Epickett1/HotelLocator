@@ -1,0 +1,16 @@
+﻿“Hotel Locator” is a  program designed around travel. Users enter the address of the location they would like to visit, 
+and the program returns a list of nearby hotels, ordered by price, distance, rating, or default order depending on what 
+the user wants. The program may still operate as intended if given a more broad query, such as “Disneyland” or “Tucson”, 
+but for the best results, addresses should be as specific as possible. Each hotel has a name, address, pricing, distance 
+from location, commute time, phone number, rating, and a short list of nearby restaurants. To run this program, you will 
+need a way to operate python code. The module “requests” must be installed on your python machine and the “InputValidation.py”
+ must be saved in the same folder as the program. It is also important to note that this program uses the Google API system, 
+therefore all information is based off of Google’s “Google Maps” data.
+
+
+Author:
+Estevan Pickett
+
+Important Dates: 
+Release date: 11 May 2022
+
